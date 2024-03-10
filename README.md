@@ -1,11 +1,22 @@
+# Greetings, Trailblazer! 👋
 
-# Hey There 👋
+I am Manikant Thakur, sculpting my professional journey as a:
 
-I’m Manikant Thakur and my profession was DevOps. I’m from India and currently working on myself.
+**DEVOPS/ML OPS ALCHEMIST · CLOUD ARCHITECT EXTRAORDINAIRE · DATA/ML EXPLORER · INFOSEC ENIGMATIST**
 
+Embarking on the next phase during the "Parental Break," each day reveals a new chapter in my professional and personal story.
 
-It’s time for a career break and a much needed life audit.
+## 🔧 Beyond Tech Pursuits
+- Capturing life's essence through the lens in unexplored terrains, where every moment is a perpetual photoshoot.
+- Commanding aquatic ballet in the pool and navigating the digital landscape through cycling, ensuring a surge of adrenaline.
+- Proudly championing the feline kingdom, with cats as steadfast companions on this cosmic journey.
+- Engaging in daily reading marathons to fortify my mind with knowledge, an essential workout routine.
+- Mastering the delicate strokes of sketching and taming the green chaos of gardening—perhaps even rivaling Picasso someday!
 
+## 💻 Code Chronicles on GitHub
+- Commencing my ascent in the open-source cosmos by birthing a modest yet impactful project, laying the foundation for an unstoppable momentum. After all, even the mightiest wizards started with a spark!
+
+Embark on this odyssey with me, where each line of code propels us toward professional greatness! 🚀✨
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -39,19 +50,3 @@ It’s time for a career break and a much needed life audit.
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-
-## 🔧 Non-Tech Side
-- I love travelling; I get to use my photography skills there.
-- Swimming & Cycling are my sports. Keeps me charged up.
-- I am more of a cat person.
-- Reading & Reading & Reading, thats my Brain exercise.
-- Sketching & Gardening, not good at, but get myself at it quite often.
-
-
-
-
-
-
-
-
