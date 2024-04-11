@@ -26,7 +26,7 @@ As I transitioned into parenthood, I underwent a profound learning experience th
 
 ## ⏰ Effective Time Management
 
-- **Priority-Setting:** Concentrating on what truly matters, even amidst challenges, has been a guiding principle. Our two-month campervan adventure exemplified the importance of simplicity and a pragmatic approach.
+- **Priority-Setting:** Concentrating on what truly matters, even amidst challenges, has been a guiding principle.
 
 - **Focus and Planning:** Acknowledging the significance of prioritizing tasks, especially combating the challenges of the infamous "dad brain," I've developed a proactive approach to planning and communication, ensuring a balanced and efficient life—both at work and home.
 
